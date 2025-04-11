@@ -29,3 +29,11 @@
   
   master = ctk.CTk()
   ```
+## Produtos analisados
+Segue aqui uma relação de produtos analisados no estudo:
+|         | **QTd.**<br>(total) | **Cor** | **Validade** |
+|---------|:-------------------:|:-------:|:------------:|
+| Item 01 |          15         |  White  |  15/05/2025  |
+| Iten 02 |          28         |  Brown  |  16/05/2025  |
+| Item 03 |          16         |   Blue  |  25/05/2025  |
+| Item 04 |          25         |   Gray  |  25/05/2025  |
